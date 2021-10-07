@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nisargnagrale
 - 👀 I’m interested in Data Science/
-- 🌱 I have completed Data Scientist masters program with 2 years of coding experience.
+- 🌱 I have completed Data Scientist masters program.
 - 💞️ I’m looking for a job in Data Science.
 - 📫 You can reach me on nisargnagrale@gmail.com
 
